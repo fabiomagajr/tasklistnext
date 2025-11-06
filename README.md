@@ -86,7 +86,7 @@ Siga os passos abaixo para executar o IdeaBook no seu ambiente de desenvolviment
 
 (Você pode pular esta etapa, pois já temos o projeto)
 ```bash
-git clone [https://github.com/SEU_USUARIO/ideabook.git](https://github.com/SEU_USUARIO/ideabook.git)
+git clone [https://github.com/fabiomagajr/tasklistnext.git](https://github.com/fabiomagajr/tasklistnext.git)
 cd ideabook
 ```
 
